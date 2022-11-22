@@ -49,12 +49,12 @@ a:hover	{
 	text-align: center;
 }
 @media (max-width: 760px) {
-	.card-white	{
+	.card-grey	{
 		width: 600px;
 	}
 }
 @media (max-width: 500px) {
-	.card-white {
+	.card-grey {
 		width: 400px;
 	}
 }
